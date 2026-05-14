@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="panelBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#001525" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#000810" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#7ec8ff"/>
+    </linearGradient>
+    <linearGradient id="titleStrip" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.3"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <!-- whole panel fade-in -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" fill="freeze"/>
+
+    <!-- panel background -->
+    <rect x="20" y="20" width="1060" height="460" fill="url(#panelBg)"
+          stroke="#00d4ff" stroke-width="1.5"/>
+    <rect x="28" y="28" width="1044" height="444" fill="none"
+          stroke="#00d4ff" stroke-width="0.4" opacity="0.45"/>
+
+    <!-- corner brackets -->
+    <g stroke="#00d4ff" stroke-width="3" fill="none" filter="url(#glow)">
+      <path d="M20 20 L20 60 M20 20 L60 20"/>
+      <path d="M1080 20 L1080 60 M1080 20 L1040 20"/>
+      <path d="M20 480 L20 440 M20 480 L60 480"/>
+      <path d="M1080 480 L1080 440 M1080 480 L1040 480"/>
+    </g>
+
+    <!-- title strip -->
+    <rect x="20" y="20" width="1060" height="46" fill="url(#titleStrip)"/>
+    <text x="50" y="50" font-family="Courier New, monospace" font-size="20" letter-spacing="6"
+          fill="#00d4ff" font-weight="bold">⟪ STATUS WINDOW ⟫</text>
+
+    <!-- online indicator -->
+    <circle cx="990" cy="43" r="4" fill="#00ff88">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1005" y="48" font-family="Courier New, monospace" font-size="13"
+          fill="#00ff88" letter-spacing="2">ONLINE</text>
+
+    <!-- LEFT — player info -->
+    <g font-family="Courier New, monospace" font-size="15">
+      <text x="50" y="115" fill="#6b9eff">▸ NAME</text>
+      <text x="225" y="115" fill="#ffffff">DHRUV SETH</text>
+
+      <text x="50" y="148" fill="#6b9eff">▸ CLASS</text>
+      <text x="225" y="148" fill="#00d4ff" font-weight="bold">FULL STACK ARCHITECT</text>
+
+      <text x="50" y="181" fill="#6b9eff">▸ TITLE</text>
+      <text x="225" y="181" fill="#ffffff">THE ONE WHO BUILDS</text>
+
+      <text x="50" y="214" fill="#6b9eff">▸ RANK</text>
+      <text x="225" y="214" fill="#ff4488" font-weight="bold">S</text>
+      <text x="248" y="214" fill="#ffffff" opacity="0.55">— ascending</text>
+
+      <text x="50" y="247" fill="#6b9eff">▸ GUILD</text>
+      <text x="225" y="247" fill="#ffffff">SOLO</text>
+
+      <text x="50" y="280" fill="#6b9eff">▸ ORIGIN</text>
+      <text x="225" y="280" fill="#ffffff">THE QUIET DUNGEON</text>
+
+      <text x="50" y="313" fill="#6b9eff">▸ ALIGNMENT</text>
+      <text x="225" y="313" fill="#ffffff">CHAOTIC CREATIVE</text>
+
+      <text x="50" y="346" fill="#6b9eff">▸ STATUS</text>
+      <text x="225" y="346" fill="#00ff88">[ GRINDING ]</text>
+    </g>
+
+    <!-- vertical divider -->
+    <line x1="520" y1="90" x2="520" y2="430" stroke="#00d4ff" stroke-width="0.6" opacity="0.4"/>
+
+    <!-- RIGHT — animated stat bars -->
+    <g font-family="Courier New, monospace" font-size="13">
+
+      <!-- STRENGTH -->
+      <text x="555" y="115" fill="#ffffff">⚔  STRENGTH    <tspan fill="#6b9eff" font-size="10">// backend forge</tspan></text>
+      <rect x="555" y="124" width="450" height="12" fill="#001528" stroke="#00d4ff" stroke-width="0.6"/>
+      <rect x="556" y="125" width="0" height="10" fill="url(#barFill)">
+        <animate attributeName="width" from="0" to="414" dur="1.4s" begin="0.5s" fill="freeze"/>
+      </rect>
+      <text x="1020" y="133" fill="#00d4ff" text-anchor="end" font-size="11" opacity="0">92
+        <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.4s" fill="freeze"/>
+      </text>
+
+      <!-- AGILITY -->
+      <text x="555" y="165" fill="#ffffff">✦  AGILITY     <tspan fill="#6b9eff" font-size="10">// frontend dance</tspan></text>
+      <rect x="555" y="174" width="450" height="12" fill="#001528" stroke="#00d4ff" stroke-width="0.6"/>
+      <rect x="556" y="175" width="0" height="10" fill="url(#barFill)">
+        <animate attributeName="width" from="0" to="409" dur="1.4s" begin="0.7s" fill="freeze"/>
+      </rect>
+      <text x="1020" y="183" fill="#00d4ff" text-anchor="end" font-size="11" opacity="0">91
+        <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.4s" fill="freeze"/>
+      </text>
+
+      <!-- DEFENSE -->
+      <text x="555" y="215" fill="#ffffff">🛡  DEFENSE     <tspan fill="#6b9eff" font-size="10">// devops fortress</tspan></text>
+      <rect x="555" y="224" width="450" height="12" fill="#001528" stroke="#00d4ff" stroke-width="0.6"/>
+      <rect x="556" y="225" width="0" height="10" fill="url(#barFill)">
+        <animate attributeName="width" from="0" to="396" dur="1.4s" begin="0.9s" fill="freeze"/>
+      </rect>
+      <text x="1020" y="233" fill="#00d4ff" text-anchor="end" font-size="11" opacity="0">88
+        <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
+      </text>
+
+      <!-- INTELLECT -->
+      <text x="555" y="265" fill="#ffffff">❅  INTELLECT   <tspan fill="#6b9eff" font-size="10">// ai conjuring</tspan></text>
+      <rect x="555" y="274" width="450" height="12" fill="#001528" stroke="#00d4ff" stroke-width="0.6"/>
+      <rect x="556" y="275" width="0" height="10" fill="url(#barFill)">
+        <animate attributeName="width" from="0" to="378" dur="1.4s" begin="1.1s" fill="freeze"/>
+      </rect>
+      <text x="1020" y="283" fill="#00d4ff" text-anchor="end" font-size="11" opacity="0">84
+        <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
+      </text>
+
+      <!-- MANA / CAFFEINE — overflows -->
+      <text x="555" y="315" fill="#ffffff">☾  MANA        <tspan fill="#6b9eff" font-size="10">// caffeine reserves</tspan></text>
+      <rect x="555" y="324" width="450" height="12" fill="#001528" stroke="#00d4ff" stroke-width="0.6"/>
+      <rect x="556" y="325" width="0" height="10" fill="#00ff88">
+        <animate attributeName="width" from="0" to="448" dur="1.4s" begin="1.3s" fill="freeze"/>
+        <animate attributeName="opacity" values="1;0.55;1" dur="1.6s" repeatCount="indefinite" begin="2.7s"/>
+      </rect>
+      <text x="1020" y="333" fill="#00ff88" text-anchor="end" font-size="14" font-weight="bold" opacity="0">∞
+        <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- bottom footer -->
+    <line x1="20" y1="400" x2="1080" y2="400" stroke="#00d4ff" stroke-width="0.6" opacity="0.5"/>
+    <rect x="20" y="400" width="1060" height="80" fill="#00d4ff" opacity="0.04"/>
+
+    <g font-family="Courier New, monospace" font-size="13">
+      <text x="50" y="430" fill="#6b9eff" letter-spacing="2">▸ SKILL POINTS</text>
+      <text x="240" y="430" fill="#ffd54a" font-size="16" font-weight="bold">3</text>
+
+      <text x="50" y="458" fill="#6b9eff" letter-spacing="2">▸ NEXT LEVEL</text>
+      <text x="240" y="458" fill="#ffffff">2,847 EXP</text>
+
+      <text x="590" y="430" fill="#6b9eff" letter-spacing="2">▸ ACTIVE BUFFS</text>
+      <text x="780" y="430" fill="#00ff88">[ FLOW STATE ] [ +20% FOCUS ]</text>
+
+      <text x="590" y="458" fill="#6b9eff" letter-spacing="2">▸ DEBUFFS</text>
+      <text x="780" y="458" fill="#ff4488">[ SLEEP DEPRIVATION · lvl 3 ]</text>
+    </g>
+
+    <!-- scan line over the whole panel -->
+    <rect x="20" y="20" width="1060" height="2" fill="#00d4ff" opacity="0.45">
+      <animate attributeName="y" from="20" to="478" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

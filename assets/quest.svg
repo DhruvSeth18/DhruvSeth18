@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 480" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="qBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#001020" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#000510" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="qStrip" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="qGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" fill="freeze"/>
+
+    <rect x="20" y="20" width="1060" height="440" fill="url(#qBg)"
+          stroke="#a855f7" stroke-width="1.5"/>
+    <rect x="28" y="28" width="1044" height="424" fill="none"
+          stroke="#a855f7" stroke-width="0.4" opacity="0.45"/>
+
+    <g stroke="#a855f7" stroke-width="3" fill="none" filter="url(#qGlow)">
+      <path d="M20 20 L20 60 M20 20 L60 20"/>
+      <path d="M1080 20 L1080 60 M1080 20 L1040 20"/>
+      <path d="M20 460 L20 420 M20 460 L60 460"/>
+      <path d="M1080 460 L1080 420 M1080 460 L1040 460"/>
+    </g>
+
+    <!-- title strip -->
+    <rect x="20" y="20" width="1060" height="46" fill="url(#qStrip)"/>
+    <text x="50" y="50" font-family="Courier New, monospace" font-size="20" letter-spacing="6"
+          fill="#c084fc" font-weight="bold">⟪ QUEST LOG ⟫</text>
+    <text x="1050" y="48" font-family="Courier New, monospace" font-size="12" letter-spacing="3"
+          fill="#a855f7" text-anchor="end" opacity="0.8">5 ACTIVE
+    </text>
+
+    <!-- Quest rows. Each slides in from left with a fade. -->
+
+    <!-- Q1 -->
+    <g opacity="0" transform="translate(-40,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="0.3s" dur="0.5s" fill="freeze"/>
+      <rect x="50" y="95" width="1000" height="50" fill="#0a0a23" stroke="#a855f7" stroke-width="0.6" opacity="0.7"/>
+      <text x="70" y="118" font-family="Courier New, monospace" font-size="16" fill="#c084fc">▸</text>
+      <text x="95" y="118" font-family="Courier New, monospace" font-size="15" fill="#ffffff">MASTER ADVANCED KUBERNETES</text>
+      <text x="95" y="135" font-family="Courier New, monospace" font-size="11" fill="#6b9eff">orchestrate fleets at scale · multi-cluster control</text>
+      <text x="780" y="120" font-family="Courier New, monospace" font-size="13" fill="#ffd54a">★ ★ ★ ★ ☆</text>
+      <text x="780" y="138" font-family="Courier New, monospace" font-size="10" fill="#00d4ff">[ IN PROGRESS ]</text>
+      <!-- progress bar -->
+      <rect x="900" y="115" width="130" height="6" fill="#001528" stroke="#a855f7" stroke-width="0.5"/>
+      <rect x="901" y="116" width="0" height="4" fill="#a855f7">
+        <animate attributeName="width" from="0" to="80" dur="1.2s" begin="1s" fill="freeze"/>
+      </rect>
+      <text x="965" y="138" font-family="Courier New, monospace" font-size="10" fill="#a855f7" text-anchor="middle" opacity="0">62%
+        <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Q2 -->
+    <g opacity="0" transform="translate(-40,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="0.5s" dur="0.5s" fill="freeze"/>
+      <rect x="50" y="160" width="1000" height="50" fill="#0a0a23" stroke="#a855f7" stroke-width="0.6" opacity="0.7"/>
+      <text x="70" y="183" font-family="Courier New, monospace" font-size="16" fill="#c084fc">▸</text>
+      <text x="95" y="183" font-family="Courier New, monospace" font-size="15" fill="#ffffff">ARCHITECT PRODUCTION DESKTOP APPS</text>
+      <text x="95" y="200" font-family="Courier New, monospace" font-size="11" fill="#6b9eff">electron · native shells · cross-OS resilience</text>
+      <text x="780" y="185" font-family="Courier New, monospace" font-size="13" fill="#ffd54a">★ ★ ★ ★ ☆</text>
+      <text x="780" y="203" font-family="Courier New, monospace" font-size="10" fill="#00d4ff">[ IN PROGRESS ]</text>
+      <rect x="900" y="180" width="130" height="6" fill="#001528" stroke="#a855f7" stroke-width="0.5"/>
+      <rect x="901" y="181" width="0" height="4" fill="#a855f7">
+        <animate attributeName="width" from="0" to="55" dur="1.2s" begin="1.2s" fill="freeze"/>
+      </rect>
+      <text x="965" y="203" font-family="Courier New, monospace" font-size="10" fill="#a855f7" text-anchor="middle" opacity="0">43%
+        <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Q3 -->
+    <g opacity="0" transform="translate(-40,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="0.7s" dur="0.5s" fill="freeze"/>
+      <rect x="50" y="225" width="1000" height="50" fill="#0a0a23" stroke="#a855f7" stroke-width="0.6" opacity="0.7"/>
+      <text x="70" y="248" font-family="Courier New, monospace" font-size="16" fill="#c084fc">▸</text>
+      <text x="95" y="248" font-family="Courier New, monospace" font-size="15" fill="#ffffff">AUTOMATE THE INFRASTRUCTURE REALM</text>
+      <text x="95" y="265" font-family="Courier New, monospace" font-size="11" fill="#6b9eff">jenkins · ci/cd pipelines · self-healing deploys</text>
+      <text x="780" y="250" font-family="Courier New, monospace" font-size="13" fill="#ff4488">★ ★ ★ ★ ★</text>
+      <text x="780" y="268" font-family="Courier New, monospace" font-size="10" fill="#00d4ff">[ IN PROGRESS ]</text>
+      <rect x="900" y="245" width="130" height="6" fill="#001528" stroke="#a855f7" stroke-width="0.5"/>
+      <rect x="901" y="246" width="0" height="4" fill="#a855f7">
+        <animate attributeName="width" from="0" to="40" dur="1.2s" begin="1.4s" fill="freeze"/>
+      </rect>
+      <text x="965" y="268" font-family="Courier New, monospace" font-size="10" fill="#a855f7" text-anchor="middle" opacity="0">31%
+        <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Q4 -->
+    <g opacity="0" transform="translate(-40,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="0.9s" dur="0.5s" fill="freeze"/>
+      <rect x="50" y="290" width="1000" height="50" fill="#0a0a23" stroke="#a855f7" stroke-width="0.6" opacity="0.7"/>
+      <text x="70" y="313" font-family="Courier New, monospace" font-size="16" fill="#c084fc">▸</text>
+      <text x="95" y="313" font-family="Courier New, monospace" font-size="15" fill="#ffffff">BUILD VISUAL DEVOPS SYSTEMS</text>
+      <text x="95" y="330" font-family="Courier New, monospace" font-size="11" fill="#6b9eff">react flow · live infra graphs · drag-to-deploy</text>
+      <text x="780" y="315" font-family="Courier New, monospace" font-size="13" fill="#ff4488">★ ★ ★ ★ ★</text>
+      <text x="780" y="333" font-family="Courier New, monospace" font-size="10" fill="#00d4ff">[ IN PROGRESS ]</text>
+      <rect x="900" y="310" width="130" height="6" fill="#001528" stroke="#a855f7" stroke-width="0.5"/>
+      <rect x="901" y="311" width="0" height="4" fill="#a855f7">
+        <animate attributeName="width" from="0" to="30" dur="1.2s" begin="1.6s" fill="freeze"/>
+      </rect>
+      <text x="965" y="333" font-family="Courier New, monospace" font-size="10" fill="#a855f7" text-anchor="middle" opacity="0">23%
+        <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Q5 -->
+    <g opacity="0" transform="translate(-40,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="1.1s" dur="0.5s" fill="freeze"/>
+      <rect x="50" y="355" width="1000" height="50" fill="#0a0a23" stroke="#a855f7" stroke-width="0.6" opacity="0.7"/>
+      <text x="70" y="378" font-family="Courier New, monospace" font-size="16" fill="#c084fc">▸</text>
+      <text x="95" y="378" font-family="Courier New, monospace" font-size="15" fill="#ffffff">FUSE AI INTO EVERY PRODUCT</text>
+      <text x="95" y="395" font-family="Courier New, monospace" font-size="11" fill="#6b9eff">agents · context engineering · the new frontier</text>
+      <text x="780" y="380" font-family="Courier New, monospace" font-size="13" fill="#ff4488">★ ★ ★ ★ ★</text>
+      <text x="780" y="398" font-family="Courier New, monospace" font-size="10" fill="#00d4ff">[ IN PROGRESS ]</text>
+      <rect x="900" y="375" width="130" height="6" fill="#001528" stroke="#a855f7" stroke-width="0.5"/>
+      <rect x="901" y="376" width="0" height="4" fill="#a855f7">
+        <animate attributeName="width" from="0" to="65" dur="1.2s" begin="1.8s" fill="freeze"/>
+      </rect>
+      <text x="965" y="398" font-family="Courier New, monospace" font-size="10" fill="#a855f7" text-anchor="middle" opacity="0">50%
+        <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- footer -->
+    <text x="550" y="438" font-family="Courier New, monospace" font-size="12" letter-spacing="4"
+          fill="#a855f7" text-anchor="middle" opacity="0.7">
+      ▸ COMPLETE ALL TO ASCEND ◂
+      <animate attributeName="opacity" values="0.7;0.25;0.7" dur="1.8s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- scan -->
+    <rect x="20" y="20" width="1060" height="2" fill="#a855f7" opacity="0.4">
+      <animate attributeName="y" from="20" to="458" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

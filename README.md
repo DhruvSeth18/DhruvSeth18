@@ -1,59 +1,338 @@
-<h1 align="center" style="color: white;">Hi there! <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"> I'm Dhruv Seth</h1>
-<h3 align="center" style="color: white;">.</h3>
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ⟪ S Y S T E M ⟫  ·  PLAYER FILE  ·  DHRUV SETH
+   No dropdowns. Everything visible. Cards, grids, animated banners.
+   ══════════════════════════════════════════════════════════════════════════════ -->
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DhruvSeth18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
+<!-- ▓ ANIMATED HEADER -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="system notification"/>
 </p>
 
-<div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhruvSeth18&theme=nord" alt="GitHub Trophies" />
+<!-- ▓ TYPEWRITER -->
+<p align="center">
+
+[![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%E2%9F%AA+SYSTEM+%E2%9F%AB++A+new+player+has+entered+the+gate.;%E2%9D%96++You+have+acquired+the+title+%3A+FULL+STACK+ARCHITECT++%E2%9D%96;%E2%96%B8++I+forge+systems+from+shadow.+Every+repo+is+a+dungeon.;%E2%96%B8++Every+bug%2C+a+boss.+Every+commit%2C+a+spell.;%E2%96%B6++P+R+E+S+S++%5B+E+N+T+E+R+%5D++T+O++B+E+G+I+N)](https://github.com/DhruvSeth18)
+
+</p>
+
+<!-- ▓ TITLE BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CLASS-Full%20Stack%20Architect-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+  <img src="https://img.shields.io/badge/RANK-S--TIER-a855f7?style=for-the-badge&labelColor=0a0a23"/>
+  <img src="https://img.shields.io/badge/AFFINITY-Shadow%20Code-4a9eff?style=for-the-badge&labelColor=0a0a23"/>
+  <img src="https://komarev.com/ghpvc/?username=DhruvSeth18&label=AURA+DETECTED&color=00d4ff&style=for-the-badge" alt="views"/>
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ PROFILE GRID  ·  side-by-side cards, no clicks needed
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ P L A Y E R &nbsp; F I L E ⟫</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 📜 &nbsp; ORIGIN
+
+> Long before the System awakened, there was a boy in a quiet room — staring at a screen that refused to obey.
+>
+> He learned the screen's language. Then its grammar. Then its silence.
+>
+> Now the screen calls him **architect** — and the systems he builds outlive their dungeons.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🜂 &nbsp; DOSSIER
+
+| | |
+|---|---|
+| **NAME** | `Dhruv Seth` |
+| **CLASS** | `Full-Stack Architect` |
+| **TITLE** | `The One Who Builds` |
+| **RANK** | `S — Awakened` |
+| **DOMAIN** | `Code · Infra · AI` |
+| **STATUS** | `ONLINE · GRINDING` |
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### ⚡ &nbsp; AWAKENED DOMAINS
+
+<img src="https://img.shields.io/badge/Full--Stack-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/DevTools-a855f7?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/AI-ff6b9d?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/Desktop-4a9eff?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/Infra-326CE5?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/Automation-f59e0b?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/SaaS-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+
+</td>
+<td valign="top">
+
+#### 🩸 &nbsp; INTEL
+
+- 🥷 &nbsp; Side projects = raids · *one boss at a time*
+- ☕ &nbsp; MANA stat = caffeine
+- 🌙 &nbsp; Best code happens 1 AM → 4 AM
+- 🐞 &nbsp; Close one bug, two spawn
+- 🎯 &nbsp; If it's automatable, it's automated
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ SKILL TREE  ·  grid of tier-tagged skill clusters, all visible
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ S K I L L &nbsp; T R E E ⟫</h2>
+<p align="center"><sub><i>every node — fully revealed</i></sub></p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🜂 &nbsp; CORE LANGUAGES**
+<br/><sub><code>tier I · Mother Tongue</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,ts,python&perline=4"/></a>
+
+</td>
+<td align="center" width="33%">
+
+**✦ &nbsp; FRONTEND CONJURATION**
+<br/><sub><code>tier II · Illusion</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,framer&perline=5"/></a>
+
+</td>
+<td align="center" width="33%">
+
+**⚔ &nbsp; BACKEND COMBAT**
+<br/><sub><code>tier II · Strike</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,maven&perline=5"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📱 &nbsp; MOBILE SUMMONING**
+<br/><sub><code>tier II · Beast Tame</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&perline=5"/></a>
+
+</td>
+<td align="center">
+
+**🖥 &nbsp; DESKTOP BINDING**
+<br/><sub><code>tier II · Construct</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=electron,nodejs&perline=5"/></a>
+
+</td>
+<td align="center">
+
+**🗄 &nbsp; DATA SANCTUM**
+<br/><sub><code>tier III · Vault</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=5"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🛡 &nbsp; DEVOPS WARD**
+<br/><sub><code>tier III · Fortress</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,bash&perline=5"/></a>
+
+</td>
+<td align="center">
+
+**🜍 &nbsp; REALITY-BEND**
+<br/><sub><code>tier IV · Forbidden</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs,react&perline=5"/></a>
+
+</td>
+<td align="center">
+
+**🛠 &nbsp; ARTIFACT BELT**
+<br/><sub><code>equipped</code></sub>
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=5"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ ACTIVE QUESTS  ·  styled rows, fully visible
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ A C T I V E &nbsp; Q U E S T S ⟫</h2>
+
+<table align="center">
+<tr>
+<th align="center" width="3%">◈</th>
+<th align="left">QUEST</th>
+<th align="center">DIFFICULTY</th>
+<th align="left">OBJECTIVE</th>
+<th align="center">STATUS</th>
+</tr>
+<tr>
+<td align="center">🜸</td>
+<td><b>Master Advanced Kubernetes</b></td>
+<td align="center"><code>★★★★☆</code></td>
+<td><sub>Tame the orchestration beast. CRDs · Operators · Custom Controllers.</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-IN_PROGRESS-00d4ff?style=flat-square&labelColor=0a0a23"/></td>
+</tr>
+<tr>
+<td align="center">🜂</td>
+<td><b>Architect Production Desktop Apps</b></td>
+<td align="center"><code>★★★★☆</code></td>
+<td><sub>Ship Electron apps that don't drain a laptop in 30 min.</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-IN_PROGRESS-00d4ff?style=flat-square&labelColor=0a0a23"/></td>
+</tr>
+<tr>
+<td align="center">⚙</td>
+<td><b>Automate the Infrastructure Realm</b></td>
+<td align="center"><code>★★★★★</code></td>
+<td><sub>Zero-touch deploys. Self-healing clusters. Infra-as-spell.</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-IN_PROGRESS-00d4ff?style=flat-square&labelColor=0a0a23"/></td>
+</tr>
+<tr>
+<td align="center">👁</td>
+<td><b>Build Visual DevOps Systems</b></td>
+<td align="center"><code>★★★★★</code></td>
+<td><sub>Make infra <i>visible</i>. React Flow + live cluster state = clarity.</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-IN_PROGRESS-00d4ff?style=flat-square&labelColor=0a0a23"/></td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>Fuse AI Into Every Product</b></td>
+<td align="center"><code>★★★★★</code></td>
+<td><sub>Not bolted-on. AI as native skill — context · agents · tools.</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-IN_PROGRESS-00d4ff?style=flat-square&labelColor=0a0a23"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ DAILY QUEST  ·  inline checklist, no hiding
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ D A I L Y &nbsp; Q U E S T ⟫</h2>
+
+<table align="center">
+<tr><td>
+
+<img src="https://img.shields.io/badge/%E2%98%90-Push%201%20commit-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/%E2%98%90-Read%201%20article-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/%E2%98%90-Refactor%201%20function-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+<img src="https://img.shields.io/badge/%E2%98%90-Sleep%20before%202%20AM-a855f7?style=for-the-badge&labelColor=0a0a23"/>
+
+<br/><br/>
+<p align="center">
+<sub><b>REWARD</b> <code>+50 EXP · +1 STAT POINT</code> &nbsp; ｜ &nbsp; <b>PENALTY</b> <code>stagnation · the dungeon expands</code></sub>
+</p>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ SHADOW ARMY  ·  live stats
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ S H A D O W &nbsp; A R M Y ⟫</h2>
+<p align="center"><sub><i>commits raised from the void</i></sub></p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvSeth18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=a855f7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSeth18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSeth18&theme=tokyonight&hide_border=true&background=0a0a23&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=00d4ff" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvSeth18&bg_color=0a0a23&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=%E2%9F%AA%20DUNGEON%20RAID%20HISTORY%20%E2%9F%AB" alt="activity"/>
+</p>
+
+<br/>
+
+<!-- ▓ Shadow Serpent -->
+<h3 align="center">🐍 &nbsp; T H E &nbsp; S H A D O W &nbsp; S E R P E N T</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<br/>
+
+<!-- ▓ TROPHIES -->
+<h2 align="center">⟪ H A L L &nbsp; O F &nbsp; T R O P H I E S ⟫</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DhruvSeth18&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies"/>
   </a>
-</div>
+</p>
 
+<br/>
 
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ COMMUNICATION GATE  ·  clickable
+   ══════════════════════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">⟪ C O M M U N I C A T I O N &nbsp; G A T E ⟫</h2>
 
-
-- 📫 How to reach me: *dhruvseth090704@gmail.com*
-
-<h3 align="left" style="color: white;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-seth-871b64248/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/DhruvSeth18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0a0a23?style=for-the-badge&logo=github&logoColor=00d4ff"/>
   </a>
-<!--   <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a> -->
-<!--   <a href="" target="blank">
-    <img align="center" src="" alt="LeetCode" height="30" width="40" />
-  </a> -->
+  <a href="https://www.linkedin.com/in/dhruv-seth-871b64248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a23?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
+  </a>
+  <a href="mailto:dhruvseth090704@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-0a0a23?style=for-the-badge&logo=gmail&logoColor=00d4ff"/>
+  </a>
+  <a href="https://holopin.io/@dhruvseth18" target="_blank">
+    <img src="https://img.shields.io/badge/Holopin-0a0a23?style=for-the-badge&logo=holopin&logoColor=00d4ff"/>
+  </a>
 </p>
 
-
-
-
-<h3 align="left" style="color: white;">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px"/>
-<!--   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin-right: 10px"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin-right: 10px"/>
+<p align="center">
+  <a href="https://holopin.io/@dhruvseth18"><img src="https://holopin.me/dhruvseth18" alt="Holopin"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvSeth18&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvSeth18&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /></p>
+<!-- ▓ ARISE FOOTER -->
+<p align="center">
+  <img src="./assets/arise.svg" width="100%" alt="ARISE"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSeth18&theme=nord" alt="GitHub Streak" /></p>
-
-[![An image of @dhruvseth18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvseth18)](https://holopin.io/@dhruvseth18)
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ⟪ FILE TERMINATES ⟫  the Monarch sleeps until the next commit.
+   ══════════════════════════════════════════════════════════════════════════════ -->
