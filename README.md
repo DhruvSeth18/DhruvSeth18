@@ -275,15 +275,6 @@
   <img src="https://streak-stats.demolab.com?user=DhruvSeth18&theme=tokyonight&hide_border=true&background=0a0a23&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=a855f7&dates=ffffff" alt="streak"/>
 </p>
 
-<h3 align="center">▦ &nbsp; D A I L Y &nbsp; C O M M I T &nbsp; S I G I L S</h3>
-<p align="center"><sub><i>every block — a spell cast into the void</i></sub></p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/a855f7/DhruvSeth18" alt="DhruvSeth18 daily commit sigils"/>
-</p>
-
-<br/>
-
 <!-- ▓ Shadow Serpent -->
 <h3 align="center">🐍 &nbsp; T H E &nbsp; S H A D O W &nbsp; S E R P E N T</h3>
 <p align="center">
