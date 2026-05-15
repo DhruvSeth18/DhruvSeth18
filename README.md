@@ -11,9 +11,11 @@
 <!-- ▓ TYPEWRITER -->
 <p align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=%E2%9F%AA+SYSTEM+%E2%9F%AB++A+new+player+has+entered+the+gate.;%E2%9D%96++You+have+acquired+the+title+%3A+FULL+STACK+ARCHITECT++%E2%9D%96;%E2%96%B8++I+forge+systems+from+shadow.+Every+repo+is+a+dungeon.;%E2%96%B8++Every+bug%2C+a+boss.+Every+commit%2C+a+spell.;%E2%96%B6++P+R+E+S+S++%5B+E+N+T+E+R+%5D++T+O++B+E+G+I+N)](https://github.com/DhruvSeth18)
+[![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%E2%9F%AA+SYSTEM+%E2%9F%AB++A+new+player+has+entered+the+gate.;%E2%9D%96++You+have+acquired+the+title+%3A+FULL+STACK+ARCHITECT++%E2%9D%96;%E2%96%B8++I+forge+systems+from+shadow.+Every+repo+is+a+dungeon.;%E2%96%B8++Every+bug%2C+a+boss.+Every+commit%2C+a+spell.;%E2%96%B6++P+R+E+S+S++%5B+E+N+T+E+R+%5D++T+O++B+E+G+I+N)](https://github.com/DhruvSeth18)
 
 </p>
+
+<br/>
 
 <!-- ▓ TITLE BADGES -->
 <p align="center">
@@ -112,7 +114,7 @@
 **✦ &nbsp; FRONTEND CONJURATION**
 <br/><sub><code>tier II · Illusion</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,framer&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs&perline=5"/></a>
 
 </td>
 <td align="center" width="33%">
@@ -120,7 +122,7 @@
 **⚔ &nbsp; BACKEND COMBAT**
 <br/><sub><code>tier II · Strike</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,maven&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,maven&perline=3"/></a>
 
 </td>
 </tr>
@@ -130,7 +132,7 @@
 **📱 &nbsp; MOBILE SUMMONING**
 <br/><sub><code>tier II · Beast Tame</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&perline=3"/></a>
 
 </td>
 <td align="center">
@@ -138,7 +140,7 @@
 **🖥 &nbsp; DESKTOP BINDING**
 <br/><sub><code>tier II · Construct</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=electron,nodejs&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=electron,nodejs&perline=2"/></a>
 
 </td>
 <td align="center">
@@ -146,7 +148,7 @@
 **🗄 &nbsp; DATA SANCTUM**
 <br/><sub><code>tier III · Vault</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3"/></a>
 
 </td>
 </tr>
@@ -164,7 +166,7 @@
 **🜍 &nbsp; REALITY-BEND**
 <br/><sub><code>tier IV · Forbidden</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs,react&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs,react&perline=2"/></a>
 
 </td>
 <td align="center">
@@ -172,7 +174,7 @@
 **🛠 &nbsp; ARTIFACT BELT**
 <br/><sub><code>equipped</code></sub>
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=5"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/></a>
 
 </td>
 </tr>
@@ -265,16 +267,19 @@
 <p align="center"><sub><i>commits raised from the void</i></sub></p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvSeth18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=a855f7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSeth18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=DhruvSeth18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=a855f7" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=DhruvSeth18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSeth18&theme=tokyonight&hide_border=true&background=0a0a23&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=00d4ff" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=DhruvSeth18&theme=tokyonight&hide_border=true&background=0a0a23&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=a855f7&dates=ffffff" alt="streak"/>
 </p>
 
+<h3 align="center">▦ &nbsp; D A I L Y &nbsp; C O M M I T &nbsp; S I G I L S</h3>
+<p align="center"><sub><i>every block — a spell cast into the void</i></sub></p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvSeth18&bg_color=0a0a23&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=%E2%9F%AA%20DUNGEON%20RAID%20HISTORY%20%E2%9F%AB" alt="activity"/>
+  <img src="https://ghchart.rshah.org/a855f7/DhruvSeth18" alt="DhruvSeth18 daily commit sigils"/>
 </p>
 
 <br/>
@@ -282,11 +287,7 @@
 <!-- ▓ Shadow Serpent -->
 <h3 align="center">🐍 &nbsp; T H E &nbsp; S H A D O W &nbsp; S E R P E N T</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/DhruvSeth18/DhruvSeth18/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="./assets/quest.svg" width="100%" alt="shadow serpent"/>
 </p>
 
 <br/>
