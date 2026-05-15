@@ -58,6 +58,7 @@
 | **RANK** | `S — Awakened` |
 | **DOMAIN** | `Code · Infra · AI` |
 | **STATUS** | `ONLINE · GRINDING` |
+| **VAULTS** | `29 public · 15 shadow · 44 total` |
 
 </td>
 </tr>
@@ -85,6 +86,51 @@
 - 🌙 &nbsp; Best code happens 1 AM → 4 AM
 - 🐞 &nbsp; Close one bug, two spawn
 - 🎯 &nbsp; If it's automatable, it's automated
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+   ▓ VAULT COUNT  ·  the flex
+   ══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⟪ V A U L T &nbsp; C O U N T ⟫</h2>
+<p align="center"><sub><i>dungeons cleared · dungeons sealed</i></sub></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=90&duration=1800&pause=600&color=00D4FF&center=true&vCenter=true&width=900&height=140&lines=4+4;2+9;1+5;%E2%9F%AA+V+A+U+L+T+S+%E2%9F%AB" alt="vault count animated"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/4️⃣4️⃣-TOTAL%20VAULTS-00d4ff?style=for-the-badge&labelColor=0a0a23"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=64&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&width=260&height=110&lines=44;%E2%9C%A6+44+%E2%9C%A6;TOTAL" alt="44"/>
+<br/><sub><b>TOTAL VAULTS</b></sub>
+<br/><sub><code>every dungeon ever entered</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/2️⃣9️⃣-PUBLIC%20GATES-a855f7?style=for-the-badge&labelColor=0a0a23"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=64&duration=2200&pause=500&color=A855F7&center=true&vCenter=true&width=260&height=110&lines=29;%E2%9C%A6+29+%E2%9C%A6;PUBLIC" alt="29"/>
+<br/><sub><b>PUBLIC GATES</b></sub>
+<br/><sub><code>open to the world</code></sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/1️⃣5️⃣-SHADOW%20VAULTS-4a9eff?style=for-the-badge&labelColor=0a0a23"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=64&duration=2200&pause=500&color=4A9EFF&center=true&vCenter=true&width=260&height=110&lines=15;%E2%9C%A6+15+%E2%9C%A6;SHADOW" alt="15"/>
+<br/><sub><b>SHADOW VAULTS</b></sub>
+<br/><sub><code>sealed · private dominion</code></sub>
 
 </td>
 </tr>
@@ -262,26 +308,6 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════
    ▓ SHADOW ARMY  ·  live stats
    ══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⟪ S H A D O W &nbsp; A R M Y ⟫</h2>
-<p align="center"><sub><i>commits raised from the void</i></sub></p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=DhruvSeth18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a23&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=a855f7" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=DhruvSeth18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhruvSeth18&theme=tokyonight&hide_border=true&background=0a0a23&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=a855f7&dates=ffffff" alt="streak"/>
-</p>
-
-<!-- ▓ Shadow Serpent -->
-<h3 align="center">🐍 &nbsp; T H E &nbsp; S H A D O W &nbsp; S E R P E N T</h3>
-<p align="center">
-  <img src="./assets/quest.svg" width="100%" alt="shadow serpent"/>
-</p>
-
-<br/>
 
 <!-- ▓ TROPHIES -->
 <h2 align="center">⟪ H A L L &nbsp; O F &nbsp; T R O P H I E S ⟫</h2>
